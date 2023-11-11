@@ -1,5 +1,9 @@
 # My API Documentation
 
+## Image Requirements:
+- **Image Size:** 64x64 pixels
+- **Color Channels:** RGB format
+
 ## /predict
 - **Method:** POST
 - **Description:** Endpoint for predicting the grade of agricultural products.
